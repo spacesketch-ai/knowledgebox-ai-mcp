@@ -8,6 +8,10 @@
 * `get_knowledge_boxes` - Get Knowledge Boxes.
 * `get_documents` - Get Documents per Knowledge Box ID.
 
+## Example interaction from Cursor
+
+![KnowledgeBoxAI MCP](image.png)
+
 ## Running with Podman or Docker
 
 You can run the KnowledgeBoxAI MCP server in a container using Podman or Docker:
